@@ -52,4 +52,7 @@ Then you can run the **laika** command:
 ```
 laika
 ```
-[Imgur](http://i.imgur.com/jxb7py2.png)
+
+If everything is setup correctly you should see:
+
+![Imgur](http://i.imgur.com/jxb7py2.png)
